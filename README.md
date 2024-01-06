@@ -10,7 +10,7 @@ Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about 
 
 * 🌍  I'm based in Atlanta, Georgia, USA.
 * ✉️  You can contact me at [jacksonkjones@protonmail.com](mailto:jacksonkjones@protonmail.com)
-* 🧠  I'm learning Backend Web development
+* 🧠  I'm always open to learning more!
 
 ### Skills
 
