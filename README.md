@@ -1,9 +1,3 @@
-### Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jackson Jones
-======================================================================
-
-Software Engineer
--------------
-
 Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about learning new tech. I enjoy building apps. Right now, my primary focus is Python.
 
 * 🌍  I'm based in Atlanta, Georgia, USA.
