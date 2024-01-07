@@ -1,4 +1,4 @@
-Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about learning new tech. I enjoy building apps. Right now, my primary focus is Python.
+Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about learning new tech. I enjoy building apps and websites.
 
 * 🌍  I'm based in Atlanta, Georgia, USA.
 * ✉️  You can contact me at [jacksonkjones@protonmail.com](mailto:jacksonkjones@protonmail.com)
