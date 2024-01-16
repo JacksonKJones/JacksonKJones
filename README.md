@@ -1,4 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonkjones&label=Profile%20views&color=0e75b6&style=flat" alt="JacksonKJones" /> </p>
+
 Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about learning new tech. I enjoy building apps and websites.
+
 
 * 🌍  I'm based in Atlanta, Georgia, USA.
 * ✉️  You can contact me at [jacksonkjones@protonmail.com](mailto:jacksonkjones@protonmail.com)
