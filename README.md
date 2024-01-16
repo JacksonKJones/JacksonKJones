@@ -9,8 +9,8 @@ Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about 
 
 ### Connect With Me
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jacksonkjones#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jacksonkjones#gh-dark-mode-only)
 
 ### Languages and Tools
 
