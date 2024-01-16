@@ -11,7 +11,6 @@ Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about 
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ### Languages and Tools
 
