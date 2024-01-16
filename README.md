@@ -1,7 +1,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jacksonkjones&label=Profile%20views&color=0e75b6&style=flat" alt="JacksonKJones" /> 
   <a href="https://www.github.com/jacksonkjones" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jacksonkjones?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/jacksonkjones?logo=github&style=for-the-badge&color=0e75b6&labelColor=1c1917" /></a>
 </p>
 
 Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about learning new tech. I enjoy building apps and websites.
