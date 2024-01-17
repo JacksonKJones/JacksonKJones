@@ -1,7 +1,7 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jacksonkjones&label=Profile%20views&color=0e75b6&style=flat" alt="JacksonKJones" height="20" /> 
+  <img src="https://komarev.com/ghpvc/?username=jacksonkjones&label=Profile%20views&color=0e75b6&style=flat" alt="JacksonKJones" height="26" /> 
   <a href="https://www.github.com/jacksonkjones" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jacksonkjones?logo=github&style=for-the-badge&color=0e75b6&labelColor=1c1917" height="20" /></a>
+src="https://img.shields.io/github/followers/jacksonkjones?logo=github&style=for-the-badge&color=0e75b6&labelColor=1c1917" height="26" /></a>
 </p>
 
 Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about learning new tech. I enjoy building apps and websites.
@@ -13,8 +13,9 @@ Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about 
 
 ### Connect With Me
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jacksonkjones#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jacksonkjones#gh-dark-mode-only)
+<p align="left">
+  <a href="https://linkedin.com/in/jacksonkjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JacksonKJones" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools
 
