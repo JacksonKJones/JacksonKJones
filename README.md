@@ -6,7 +6,7 @@ src="https://img.shields.io/github/followers/jacksonkjones?logo=github&style=for
 -->
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksonkjones/)](https://www.linkedin.com/in/jacksonkjones/)
 Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about learning new tech. I enjoy building apps and websites.
 
 
