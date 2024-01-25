@@ -34,7 +34,13 @@ src="https://img.shields.io/github/followers/jacksonkjones?logo=github&style=for
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JacksonKJones&theme=transparent&hide_longest_streak=true" alt="GitHub Streak" /></a>  
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--
 **JacksonKJones/JacksonKJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
