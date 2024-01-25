@@ -7,7 +7,8 @@ src="https://img.shields.io/github/followers/jacksonkjones?logo=github&style=for
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-jacksonkjones-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksonkjones/)](https://www.linkedin.com/in/jacksonkjones/)
-Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about learning new tech. I enjoy building apps and websites.
+
+# Hello, I'm Jackson. I'm an Information Systems graduate who is passionate about learning new tech. I enjoy building apps and websites.
 
 
 * 🌍  I'm based in Atlanta, Georgia, USA.
