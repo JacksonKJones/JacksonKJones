@@ -15,12 +15,6 @@ src="https://img.shields.io/github/followers/jacksonkjones?logo=github&style=for
 * 📫  You can contact me at [jacksonkjones@protonmail.com](mailto:jacksonkjones@protonmail.com)
 * 🧠  I'm always open to learning more!
 
-### Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/jacksonkjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JacksonKJones" height="30" width="40" /></a>
-</p>
-
 ### Languages and Tools
 
 <p align="left">
