@@ -1,9 +1,5 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jacksonkjones&label=Profile%20views&color=0e75b6&style=flat" alt="JacksonKJones" height="26" /> 
-  <!-- ****Save this code for when I have more followers****
-  <a href="https://www.github.com/jacksonkjones" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jacksonkjones?logo=github&style=for-the-badge&color=0e75b6&labelColor=1c1917" height="26" /></a>
--->
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-jacksonkjones-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacksonkjones/)](https://www.linkedin.com/in/jacksonkjones/)
