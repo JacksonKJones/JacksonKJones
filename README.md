@@ -10,6 +10,7 @@
 * 🌍  I'm based in Atlanta, Georgia, USA.
 * 📫  You can contact me at [jacksonkjones@protonmail.com](mailto:jacksonkjones@protonmail.com)
 * 🧠  I'm always open to learning more!
+* 🐍  Currently working on my PCAP certification
 
 ### Languages and Tools
 
